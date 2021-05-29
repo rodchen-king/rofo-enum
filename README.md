@@ -1,4 +1,4 @@
-# react-calendar
+# react-enum
 
 ## Getting Started
 

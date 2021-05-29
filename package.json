@@ -1,6 +1,5 @@
 {
-  "private": true,
-  "name": "react-calendar",
+  "name": "rofo-enum",
   "version": "1.0.0",
   "scripts": {
     "start": "dumi dev",
